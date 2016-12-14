@@ -2,7 +2,8 @@ html {
     font-family: Kreon, sans-serif;
     background-color: #4FA4D9;
     margin: 3.5%;
-    margin-bottom: 10%;
+    margin-bottom: 15%;
+    padding-bottom: 50px;
 }
 
 body,
@@ -16,7 +17,7 @@ h1 {
 }
 
 .jumbotron {
-    background-color: #48E589;
+    background-color: darkgrey;
 }
 
 img {
@@ -25,7 +26,7 @@ img {
     margin-right: 50%;
     max-width: 500px;
     margin-left: 20%;
-    margin-right: auto;
+    margin-right: 30%;
 }
 
 .container {
@@ -38,13 +39,19 @@ footer nav a {
     align-content: center;
     float: left;
     list-style: none!important;
+    text-align: center;
 }
 
 footer nav {
     background-color: #48E589;
     align-content: center;
+    text-align: center;
 }
 
 .bg-primary {
     background-color: #48E589!important;
+}
+
+ul {
+    list-style: none;
 }
