@@ -1,0 +1,50 @@
+html {
+    font-family: Kreon, sans-serif;
+    background-color: #4FA4D9;
+    margin: 3.5%;
+    margin-bottom: 10%;
+}
+
+body,
+section,
+div {
+    background-color: #00B0A0;
+}
+
+h1 {
+    font-family: Ubuntu, serif;
+}
+
+.jumbotron {
+    background-color: #48E589;
+}
+
+img {
+    object-fit: scale-down;
+    float: left;
+    margin-right: 50%;
+    max-width: 500px;
+    margin-left: 20%;
+    margin-right: auto;
+}
+
+.container {
+    padding-top: 60px;
+}
+
+footer nav a:first-child,
+footer nav a {
+    color: black;
+    align-content: center;
+    float: left;
+    list-style: none!important;
+}
+
+footer nav {
+    background-color: #48E589;
+    align-content: center;
+}
+
+.bg-primary {
+    background-color: #48E589!important;
+}
